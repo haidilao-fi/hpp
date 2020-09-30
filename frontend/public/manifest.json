@@ -1,0 +1,15 @@
+{
+  "short_name": "Hot Pot Points",
+  "name": "Hot Pot Points, HPP Token; A pilot project in the field of cryptocurrency in the traditional industry.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
