@@ -1,3 +1,10 @@
+##Project information
+
+Website：[https://haidilao.fi](https://haidilao.fi) <br />
+Github：[https://github.com/haidilao_fi](https://github.com/haidilao_fi) <br />
+Twitter：[https://twitter.com/haidilao_fi](https://twitter.com/haidilao_fi) <br />
+Discord：[https://discord.gg/npBSNbd](https://discord.gg/npBSNbd) <br />
+Medium：[https://medium.com/@haidilao_fi](https://medium.com/@haidilao_fi) <br />
 
 ### `Contracts`
 HPP Token：[0x734b73ce38d771b1509645589f9f57fa6f8c530d](https://etherscan.io/token/0x734b73ce38d771b1509645589f9f57fa6f8c530d) <br />
