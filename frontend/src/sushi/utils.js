@@ -307,7 +307,7 @@ export const redeem = async (masterChefContract, account) => {
 export const getEthPrice = async (wethContract, usdcContract, usdcWethAddress) => {
     const ethToken = await wethContract.methods.balanceOf(usdcWethAddress).call()
     const usdcToken = await usdcContract.methods.balanceOf(usdcWethAddress).call()
-    return new BigNumber(usdcToken).div(ethToken)
+    return new BigNumber(usdcToken).times(new BigNumber(10).pow(12)).div(ethToken)
 }
 export const getTokenEthPrice = async (wethContract, tokenContract, priceLpAddress) => {
     const ethToken = await wethContract.methods.balanceOf(priceLpAddress).call()
